@@ -129,6 +129,59 @@
       ]
     },
     {
+      "menuLabel": "Clothing",
+      "menuLink": "/clothing",
+      "category": [
+        {
+          "categoryLabel": "women",
+          "submenu": [
+            {
+              "menuLabel": "T-shirts & Tops",
+              "menuLink": "/clothing"
+            },
+            {
+              "menuLabel": "Sweaters & Hoodies",
+              "menuLink": "/clothing"
+            },
+            {
+              "menuLabel": "Jackets",
+              "menuLink": "/clothing"
+            }
+          ]
+        },
+        {
+          "categoryLabel": "men",
+          "submenu": [
+            {
+              "menuLabel": "T-shirts",
+              "menuLink": "/clothing"
+            },
+            {
+              "menuLabel": "Sweaters & Hoodies",
+              "menuLink": "/clothing"
+            },
+            {
+              "menuLabel": "Jackets",
+              "menuLink": "/clothing"
+            }
+          ]
+        },
+        {
+          "categoryLabel": "accessories",
+          "submenu": [
+            {
+              "menuLabel": "Caps & Scarves",
+              "menuLink": "/clothing"
+            },
+            {
+              "menuLabel": "Bags",
+              "menuLink": "/clothing"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "menuLabel": "journal",
       "menuLink": "/blog",
       "category": null
